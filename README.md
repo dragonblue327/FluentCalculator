@@ -46,7 +46,7 @@
 #### Usage
 
     just save it as zip and run. 
-    you can ignore test project it's not connected to main project (i did it for helping others).
+    you can ignore FluentCalculatorTester file it's not connected to main project (i did it for helping others).
 
 #### Result 
 <img src="https://github.com/dragonblue327/FluentCalculator/blob/main/picFromConsole.png?raw=true">
