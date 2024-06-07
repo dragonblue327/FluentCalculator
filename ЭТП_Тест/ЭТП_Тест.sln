@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЭТП_Тест", "ЭТП_Тест.csproj", "{554C6150-A15C-40EB-85C6-EAF5E5AADB0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCalculatorTester", "..\FluentCalculatorTester\FluentCalculatorTester.csproj", "{BC20ECDF-6656-427D-B861-DBB3B693129E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554C6150-A15C-40EB-85C6-EAF5E5AADB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554C6150-A15C-40EB-85C6-EAF5E5AADB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554C6150-A15C-40EB-85C6-EAF5E5AADB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554C6150-A15C-40EB-85C6-EAF5E5AADB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC20ECDF-6656-427D-B861-DBB3B693129E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC20ECDF-6656-427D-B861-DBB3B693129E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC20ECDF-6656-427D-B861-DBB3B693129E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC20ECDF-6656-427D-B861-DBB3B693129E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0850C39B-DD69-4E77-8E05-FB2F320E8E56}
+	EndGlobalSection
+EndGlobal

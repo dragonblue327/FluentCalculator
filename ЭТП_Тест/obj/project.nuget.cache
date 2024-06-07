@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmlePexdQzL6cqrEH7U/LC513quCNqtjT+TzoVyfG1+drh80VQW2ok1g1YwvxLgCkmRFN+HMQjy5E/TAyKA3TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drago\\source\\repos\\FluentCalculator\\ЭТП_Тест\\ЭТП_Тест.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drago\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
